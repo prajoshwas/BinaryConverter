@@ -1,5 +1,5 @@
 # BinaryConverter
-BinaryConverter GUI for Java 17
+BinaryConverter GUI for Java 17 using Swing
 
 Sample Screenshots:
 
